@@ -6,7 +6,7 @@ Round Image Library is a way to view image that supports rounded corners like ci
 The complete component implementation can be found [here](https://github.com/Applib-OpenHarmony/RoundImage)
 
 ## 2. Use Case
-Such Rounded or Oval Images are used in profile picture of various social media login, thumbnails of various picture gallery, etc. Screenshot of the different ways to use the library looks like the one below
+Such Rounded or Oval Images are used in profile picture of various social media login, thumbnails of various picture gallery, etc. Screenshot of the different ways to use the library is shown below
 
 
 ![Round Image](https://user-images.githubusercontent.com/71301091/176164422-57524530-f60e-4772-be25-988813c40057.jpg)
