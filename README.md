@@ -42,7 +42,7 @@ import { RoundImage, OvalImage, RoundImageModel, OvalImageModel, ClickListener }
 |                                   |---- index.ets
 ````
 
-## Library Usage
+## 6. Library Usage
 
 ### Round Image
 
@@ -117,5 +117,5 @@ OvalImage({
 })
 ```
 
-## Compatibility
+## 7. Compatibility
 Supports OpenHarmony API Version 8
