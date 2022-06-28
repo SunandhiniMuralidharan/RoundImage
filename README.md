@@ -17,7 +17,7 @@ To use this library, please install using the below instruction.
 ```js
 npm install @ohos/libroundimage --save
 ```
-Details about Open Harmony NPM environment configuration, see [here](https://gitee.com/openharmony-tpc/docs/blob/master/OpenHarmony_npm_usage.md)
+For details about Open Harmony NPM environment configuration, see [here](https://gitee.com/openharmony-tpc/docs/blob/master/OpenHarmony_npm_usage.md)
 
 ## 4. Import
 ```js
